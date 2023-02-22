@@ -1,7 +1,4 @@
-able File  31 lines (26 sloc)  388 Bytes
-
 #include <stdio.h>
-
 /**
  * main - print the first 50 fibonacci numbers
  * starting with 1 and 2
